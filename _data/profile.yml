@@ -24,10 +24,8 @@ short_bio_text_justify: false
 short_bio: >-
 
   <p>
-    I am currently a <strong>Ph.D. student</strong> in Geographic Information Systems at 
-    <a href="https://www.tamu.edu/" target="_blank">Texas A&M University</a>, 
-    advised by Prof. <a href="https://scholar.google.com/citations?user=VRndhQEAAAAJ&hl=en" target="_blank">Lei Zou</a> in the 
-    <a href="https://www.geoearlab.com/" target="_blank">TAMU GEAR Lab</a>. 
+    I am currently a <strong>M.Eng student</strong> in Fluid Mechanics at Xian Jiaotong University
+    advised by Prof. Simin Wang.
     I previously earned my Master of Science in Spatial Data Science at the 
     <a href="https://www.usc.edu/" target="_blank">University of Southern California</a>, 
     advised by Prof. <a href="https://scholar.google.com.au/citations?user=0Hm7fD0AAAAJ&hl=en" target="_blank">Siqin Wang</a> 
@@ -36,22 +34,11 @@ short_bio: >-
     <a href="https://lxsy.nau.edu.cn/NanjingAuditUniversity/list.htm" target="_blank">Nanjing Audit University</a>.
   </p>
 
-  <p>
-    Previously, I was also a Research Assistant at 
-    <a href="https://www.hkust-gz.edu.cn/" target="_blank">HKUST(GZ)</a>, 
-    working in the AI4City Lab with Prof. <a href="https://wufan-zhao.github.io/" target="_blank">Wufan Zhao</a>. 
-    Before that, I worked as a Data Science Intern at 
-    <a href="https://sites.google.com/view/hdscalecollab/" target="_blank">City of Hope</a> under the supervision of 
-    Dr. <a href="https://www.linkedin.com/in/jiue-an-jay-y-a1ab6737/" target="_blank">Jay Yang</a> 
-    and as a Research Assistant at 
-    <a href="https://www.polyu.edu.hk/en/" target="_blank">The Hong Kong Polytechnic University</a>, advised by 
-    Prof. <a href="https://zhiweili.net/" target="_blank">Zhiwei Li</a>.
-  </p>
 
   <p>
     <i class="fa-solid fa-rectangle-ad" style="color: #d60000;"></i> 
-    <span style="color: #d60000;">I am looking for collaborators and interns</span> 
-    interested in GeoAI, Spatial Analysis, and their applications in urban science and human-environment interaction in 3D urban space. 
+    <span style="color: #d60000;">I am looking for Ph.D. position</span> 
+    interested in Fluid mechanics, and their applications in urban science and human-environment interaction in 3D urban space. 
     My goal is to develop novel tools, algorithms, and methodologies to empower future researchers in exploring Urban Science and 
     understanding the dynamic relationship between humans and their environments. If you are interested in collaborating, 
     please feel free to reach out via email or WeChat.
