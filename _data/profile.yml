@@ -22,14 +22,19 @@ linkedin: ruochen-zhang-aa3433399/
 
 short_bio_text_justify: false
 short_bio: >-
+ <p>
   I am currently a <strong>M.Eng student</strong> in Fluid Mechanics at Xian Jiaotong University advised by Prof. Simin Wang.
   I hold a Bachelor in Mechanical Engineering and Finance from Xian Jiaotong University."
-  ---
+ </p>
+
+ <p>
   My research focuses on multiphase fluid dynamics, turbulence, and microbubble transport, with an emphasis on combining experimental diagnostics and numerical simulations to understand interfacial transport phenomena.
   During my graduate studies, I have investigated bubble fragmentation in swirling flows, wet particle collisions in multiphase systems, and the thermal-hydraulic performance of industrial energy systems.
-  
-  <strong style="color: #d60000;">I am looking for Ph.D. positions starting Fall 2026, where I aim to deepen my research in fluid dynamics while contributing to an inclusive and collaborative academic environment.</strong>
+ </p>
 
+ <p>
+  <strong style="color: #d60000;">I am looking for Ph.D. positions starting Fall 2026, where I aim to deepen my research in fluid dynamics while contributing to an inclusive and collaborative academic environment.</strong>
+ </p>
 
 portrait_url: /assets/images/photos/微信图片_20251208150907_120_284.jpg
 
