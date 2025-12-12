@@ -24,7 +24,7 @@ short_bio_text_justify: false
 short_bio: >-
  <p>
   I am currently a <strong>M.Eng student</strong> in Fluid Mechanics at Xian Jiaotong University advised by Prof. Simin Wang.
-  I hold a Bachelor in Mechanical Engineering and Finance from Xian Jiaotong University."
+  I hold a Bachelor in Mechanical Engineering and Finance from Xian Jiaotong University.
  </p>
 
  <p>
@@ -33,6 +33,7 @@ short_bio: >-
  </p>
 
  <p>
+  <i class="fa-solid fa-rectangle-ad" style="color: #d60000;"></i> 
   <strong style="color: #d60000;">I am looking for Ph.D. positions starting Fall 2026, where I aim to deepen my research in fluid dynamics while contributing to an inclusive and collaborative academic environment.</strong>
  </p>
 
